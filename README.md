@@ -10,7 +10,11 @@ Lowercase Check: Verifies the presence of at least one lowercase letter.
 Number Check: Verifies the presence of at least one numeric digit.
 Special Character Check: Verifies the presence of at least one special character (e.g., !@#$%^&*()).
 Feedback: Provides a summary of the password's strength and specific recommendations for improvement.
+
+
 Requirements
 Python 3.x
+
+
 How It Works
 The program uses regular expressions to check for the presence of uppercase and lowercase letters, numbers, and special characters. It sums up the number of criteria met to determine the password strength and provides feedback accordingly.
