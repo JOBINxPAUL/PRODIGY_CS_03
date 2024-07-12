@@ -13,10 +13,8 @@ Feedback: Provides a summary of the password's strength and specific recommendat
 
 
 Requirements
-
 Python 3.x
 
 
 How It Works
-
 The program uses regular expressions to check for the presence of uppercase and lowercase letters, numbers, and special characters. It sums up the number of criteria met to determine the password strength and provides feedback accordingly.
