@@ -1,5 +1,4 @@
 import re
-
 def check_password_strength(password):
     length_criteria = len(password) >= 8
     uppercase_criteria = re.search(r'[A-Z]', password) is not None
